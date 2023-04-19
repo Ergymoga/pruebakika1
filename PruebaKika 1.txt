@@ -1,1 +1,19 @@
-esto es una prueba de Kika
+esto es una prueba de 
+{
+    "Policies": [
+        {
+            "ClaimId": "",
+            "PolicyId": "470",
+            "CertificateId": "0",
+            "LineOfBusinessId": "34",
+            "ProductId": "34203",
+            "CoverageId": "1",
+            "CoverageName": "Muerte por Cualquier Causa",
+            "RoleId": "2",
+            "CreditNumber": ""
+        },
+        {
+            "ClaimId": "",
+            "PolicyId": "470",
+            "CertificateId": "0",
+            "LineOfBusinessId": "34", 
